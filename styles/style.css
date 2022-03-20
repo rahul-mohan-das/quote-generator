@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: skyblue;
+    display: flex;
+    min-height: 100vh;
+    margin:0;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background:#fff;
+    padding:20px 50px;
+    border-radius: 20px;
+    box-shadow: 0 4px 5px rgba(0,0,0,0.3);
+}
